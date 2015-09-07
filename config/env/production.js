@@ -24,7 +24,7 @@ module.exports = {
     },
   },
   models: {
-    connection: 'myMongoDB'
+    connection: 'productionMongoDB'
   }
 
 
